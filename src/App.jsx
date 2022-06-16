@@ -1,8 +1,9 @@
 import React from "react";
-
+import Board from "./components/Board";
+import "./style/root.scss"
 export default () => (
-  <>
-    <h1>Welcome to React Vite Micro App!</h1>
-    <p>Hard to get more minimal than this React app.</p>
-  </>
+  <div className="app h-[100vh] flex items-center justify-center">
+    <h1 className="mb-20 text-5xl">TIC TAC TOE</h1>
+    <Board/>
+  </div>
 );
