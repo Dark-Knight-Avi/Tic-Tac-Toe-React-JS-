@@ -1,4 +1,4 @@
-
+<a name="readme-top"></a>
 # Tic Tac Toe
 
 This is a game in which two players seek in alternate turns to complete a
@@ -41,7 +41,7 @@ https://tic-tac-toe-dka.netlify.app/
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-<p align="right">(<a href="# Tic Tac Toe">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
