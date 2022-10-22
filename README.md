@@ -41,7 +41,7 @@ https://tic-tac-toe-dka.netlify.app/
 * [![React][React.js]][React-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-<p align="right">(<a href="https://github.com/Dark-Knight-Avi/Tic-Tac-Toe-React-JS-/edit/master/README.md#tic-tac-toe">back to top</a>)</p>
+<p align="right">(<a href="# Tic Tac Toe">back to top</a>)</p>
 
 
 
